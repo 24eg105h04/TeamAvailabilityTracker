@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+    margin:30px;
+}
+
+button{
+    padding:8px;
+}
+
+#status{
+    font-weight:bold;
+    color:green;
+}
